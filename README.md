@@ -90,9 +90,7 @@ __double underscore for bold__
 ## task list
 - [x] task 1
 - [x] task 2
-- [] task 3<li>item1</li>
-    <li>item2</li>
-    <li>item3</li>
+- []  task 3
 
 <br/>
 
